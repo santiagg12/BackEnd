@@ -25,7 +25,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 
-@CrossOrigin(origins ="http://localhost:4200")
+@CrossOrigin(origins ="https://portfolio-morandi.web.app")
 public class PersonaController {
     @Autowired IPersonaService ipersonaService ;
     
@@ -34,7 +34,7 @@ public class PersonaController {
         return ipersonaService.getPersona();
         
     }
-    @PreAuthorize("hasRole('ADMIN')")
+    //@PreAuthorize("hasRole('ADMIN')")
     @PostMapping("/personas/crear")   
     public String createPersona(@RequestBody Persona persona){
         ipersonaService.savePersona(persona);
