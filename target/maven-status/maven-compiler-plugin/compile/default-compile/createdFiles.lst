@@ -1,14 +1,18 @@
 com\portfolio\santiago\Entity\Educacion.class
 com\portfolio\santiago\Security\Service\UsuarioService.class
+com\portfolio\santiago\Controller\CHys.class
 com\portfolio\santiago\Security\Jwt\JwtProvider.class
 com\portfolio\santiago\Service\SEducacion.class
 com\portfolio\santiago\Security\Dto\JwtDto.class
+com\portfolio\santiago\Dto\DtoHys.class
 com\portfolio\santiago\Repository\REducacion.class
 com\portfolio\santiago\Security\MainSecurity.class
 com\portfolio\santiago\Security\Jwt\JwtTokenFilter.class
 com\portfolio\santiago\Dto\DtoEducacion.class
 com\portfolio\santiago\Entity\Experiencia.class
 com\portfolio\santiago\Security\Enums\RolNombre.class
+com\portfolio\santiago\Service\Shys.class
+com\portfolio\santiago\Repository\Rhys.class
 com\portfolio\santiago\Service\ImpPersonaService.class
 com\portfolio\santiago\Security\Controller\AuthController.class
 com\portfolio\santiago\Security\Entity\UsuarioPrincipal.class
@@ -17,6 +21,7 @@ com\portfolio\santiago\Security\Controller\Mensaje.class
 com\portfolio\santiago\Security\Jwt\JwtEntryPoint.class
 com\portfolio\santiago\Security\Repository\iRolRepository.class
 com\portfolio\santiago\Service\SExperiencia.class
+com\portfolio\santiago\Entity\hys.class
 com\portfolio\santiago\Security\Dto\LoginUsuario.class
 com\portfolio\santiago\Repository\IPersonaRepository.class
 com\portfolio\santiago\Entity\Persona.class

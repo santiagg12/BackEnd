@@ -1,6 +1,7 @@
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Controller\AuthController.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Service\UsuarioService.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Enums\RolNombre.java
+C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Controller\CHys.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Dto\JwtDto.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Service\RolService.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Service\SEducacion.java
@@ -12,6 +13,7 @@ C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Repository\iUsuarioRepository.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Entity\Educacion.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Dto\NuevoUsuario.java
+C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Service\Shys.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Dto\DtoEducacion.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Controller\Mensaje.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Repository\iRolRepository.java
@@ -24,6 +26,9 @@ C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Entity\Rol.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Service\SExperiencia.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Interface\IPersonaService.java
+C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Dto\DtoHys.java
+C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Repository\Rhys.java
+C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Entity\hys.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Controller\CExperiencia.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Dto\LoginUsuario.java
 C:\Users\micae\Desktop\santi1\proyecto yo programo\Proyecto_Integrador\backend 1\src\main\java\com\portfolio\santiago\Security\Service\UserDetailsImpl.java
