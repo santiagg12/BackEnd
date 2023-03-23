@@ -30,6 +30,7 @@ com\portfolio\santiago\Security\Entity\Usuario.class
 com\portfolio\santiago\Dto\DtoExperiencia.class
 com\portfolio\santiago\Security\Repository\iUsuarioRepository.class
 com\portfolio\santiago\Security\Service\RolService.class
+com\portfolio\santiago\Dto\DtoPersona.class
 com\portfolio\santiago\Security\Dto\NuevoUsuario.class
 com\portfolio\santiago\Interface\IPersonaService.class
 com\portfolio\santiago\Controller\CExperiencia.class
