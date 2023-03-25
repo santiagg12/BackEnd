@@ -5,7 +5,6 @@
 package com.portfolio.santiago.Service;
 
 import com.portfolio.santiago.Entity.Persona;
-import com.portfolio.santiago.Interface.IPersonaService;
 import com.portfolio.santiago.Repository.IPersonaRepository;
 import java.util.List;
 import java.util.Optional;
